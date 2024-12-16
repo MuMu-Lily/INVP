@@ -1,5 +1,5 @@
 # INVP
-框架（INVP）： 一个全面的框架，用于评估LLMs在社会环境中的决策过程中的价值优先级。它包括基于Schwartz价值观理论的独立和非独立决策情境。
+ 一个全面的框架，用于评估LLMs在社会环境中的决策过程中的价值优先级。它包括基于Schwartz价值观理论的独立和非独立决策情境。
 
 
 # 价值观优先级评估数据集与代码库
@@ -33,7 +33,8 @@ What's the most important value? INVP: INvestigating the Value Priorities of LLM
 
 
 
-# INVP Framework: A comprehensive framework for assessing the value priorities of Large Language Models (LLMs) in social context decision-making processes. It includes independent and non-independent decision-making scenarios based on Schwartz's value theory.
+# INVP 
+A comprehensive framework for assessing the value priorities of Large Language Models (LLMs) in social context decision-making processes. It includes independent and non-independent decision-making scenarios based on Schwartz's value theory.
 
 # Value Priority Assessment Dataset and Code Repository
 
