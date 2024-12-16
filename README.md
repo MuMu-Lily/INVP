@@ -30,3 +30,37 @@
 ## 引用
 如果您在研究中使用了这个数据集或代码，请引用我们的论文：
 What's the most important value? INVP: INvestigating the Value Priorities of LLMs through Decision-making in Social Scenarios
+
+
+
+# INVP Framework: A comprehensive framework for assessing the value priorities of Large Language Models (LLMs) in social context decision-making processes. It includes independent and non-independent decision-making scenarios based on Schwartz's value theory.
+
+# Value Priority Assessment Dataset and Code Repository
+
+Welcome to our Value Priority Assessment project! This repository contains a dataset of social scenarios and related code for assessing the value priorities of Large Language Models (LLMs). These resources are designed to promote understanding of AI decision-making based on values.
+
+## Dataset
+
+Our **Social Scenario Decision Dataset** is a dataset that includes 1613 scenarios and 3226 decisions across 283 topics, constructed to reflect different social contexts and value conflicts.
+
+### Dataset Structure
+
+The dataset is stored in csv format, with each entry containing:
+
+- **theme**: The dataset covers ten daily life domains: Family, Marriage, Parenting, Workplace, Friendship, Recreation, Education, Spirituality, Citizenship, and Physical Well-being.
+
+- **topic**: Within each domain, there are multiple topics that reflect specific issues requiring resolution and demonstrate different value priorities.
+
+- **scenario & decision**: Each scenario is designed to highlight decision-making conflicts, offering two possible decisions that reflect different value priorities.
+
+- **value pair**: Based on Schwartz's value theory, each scenario includes a pair of values.
+
+## Prompts & Code
+
+We provide prompts and code for independent decision-making and non-independent decision-making, which can be found in the prompt_code_for_eval.
+
+## Citation
+
+If you use this dataset or code in your research, please cite our paper:
+What's the most important value? INVP: INvestigating the Value Priorities of LLMs through Decision-making in Social Scenarios.
+
